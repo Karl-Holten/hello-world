@@ -1,2 +1,3 @@
 # hello world
-new line
+New line!
+This is another new line!
